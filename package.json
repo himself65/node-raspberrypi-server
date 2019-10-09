@@ -6,7 +6,7 @@
   "author": "himself65 <himself65@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "run": "node ./src/index.js"
+    "start": "node ./src/index.js"
   },
   "private": true,
   "devDependencies": {
